@@ -33,3 +33,7 @@ Early warning systems can help schools provide tutoring, attendance outreach, an
 ## Author
 
 Sean Harvey — Mathematics educator expanding into data analytics and data science.
+
+## Data Origin
+
+UCI Student Performance Dataset - https://archive.ics.uci.edu/dataset/320/student+performance
