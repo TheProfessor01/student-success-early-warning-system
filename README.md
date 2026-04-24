@@ -1,35 +1,35 @@
-# Student Success Analytics: Predicting Academic Risk with Data
+Student Success Early Warning System
 
-Use educational data to identify at-risk students before final outcomes occur.
+This project uses educational data analytics and machine learning to identify students who may be academically at risk before final outcomes occur.
 
-Educational institutions often react to student struggles after performance has already declined. This project uses exploratory data analysis, visualization, and predictive modeling to identify patterns associated with academic risk and support earlier intervention.
+Objective
 
-Created by a mathematics educator transitioning into data science and analytics, inspired by the challenge of helping students before they fall behind.
+Schools often identify struggling students after grades have already declined. This project explores whether student performance indicators can support earlier intervention.
 
-## Tools Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib / Seaborn
-- Jupyter Notebook
+Tools Used
 
-## Objective
-Predict whether a student is at risk of failing based on academic and behavioral indicators.
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
-## Models Tested
-- Logistic Regression
-- Random Forest
-- Decision Tree
+Models Used
 
-## Key Features
-- Study time
-- Absences
-- Previous failures
-- Family support
-- Internet access
+* Logistic Regression
+* Random Forest
 
-## Results
-TBD
+Key Findings
 
-## Why It Matters
-Early identification systems can help educators intervene before students fall too far behind.
+* Prior failures strongly predicted future risk
+* Higher absences were associated with lower success rates
+* Predictive models identified many at-risk students before final grades
+
+Why It Matters
+
+Early warning systems can help schools provide tutoring, attendance outreach, and targeted support sooner.
+
+Author
+
+Sean Harvey — Mathematics educator expanding into data analytics and data science.
